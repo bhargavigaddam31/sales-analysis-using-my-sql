@@ -1,53 +1,58 @@
 # sales analysis using my sql
 
-🎯 Objective
-Analyze sales data to uncover trends, patterns, and insights.
+# 🎯 Objective
+- Analyze sales data to uncover trends, patterns, and insights.
 
-Support data-driven decision-making using SQL queries.
+- Support data-driven decision-making using SQL queries.
 
-Improve understanding of customer behavior and product performance.
+- Improve understanding of customer behavior and product performance.
 
-🛠️ Tools Used
-MySQL / SQL – Core tool for data extraction and analysis.
 
-Database – COMPANY database containing the sales table.
+# 🛠️ Tools Used
+- MySQL / SQL – Core tool for data extraction and analysis.
 
-SQL IDE – MySQL Workbench / DBeaver / any preferred SQL editor.
+- Database – COMPANY database containing the sales table.
 
-🧭 Steps Included
-Created and connected to the COMPANY database.
+- SQL IDE – MySQL Workbench / DBeaver / any preferred SQL editor.
 
-Queried the sales table using SELECT statements.
 
-Applied filters, aggregations, pattern matching, and ranking.
+# 🧭 Steps Included
+- Created and connected to the COMPANY database.
 
-Executed business-focused queries based on different dimensions.
+ - Queried the sales table using SELECT statements.
 
-📊 Analysis Included
-High-value order filtering by shipping mode.
+ - Applied filters, aggregations, pattern matching, and ranking.
 
-Technology category sales in Ireland post-2020.
+- Executed business-focused queries based on different dimensions.
 
-Top profitable transactions and city-wise sales.
 
-Customer name and product pattern matching.
+# 📊 Analysis Included
+- High-value order filtering by shipping mode.
 
-Summary of revenue, costs, and order volumes.
+- Technology category sales in Ireland post-2020.
 
-Product and customer-based rankings.
+- Top profitable transactions and city-wise sales.
 
-🔑 Key Insights
-Identified top 5 cities contributing to revenue.
+- Customer name and product pattern matching.
 
-Ranked products by total sales using window functions.
+- Summary of revenue, costs, and order volumes.
 
-Observed customer order patterns and high-value buyers.
+- Product and customer-based rankings.
 
-Extracted performance of specific categories in regions.
 
-🧾 Conclusion
-SQL effectively reveals actionable business insights from raw sales data.
+# 🔑 Key Insights
+- Identified top 5 cities contributing to revenue.
 
-The project demonstrates practical SQL applications for business analysis.
+- Ranked products by total sales using window functions.
 
-Ready-to-use queries support further custom analysis and reporting.
+- Observed customer order patterns and high-value buyers.
+
+- Extracted performance of specific categories in regions.
+
+
+  # 🧾 Conclusion
+- SQL effectively reveals actionable business insights from raw sales data.
+
+- The project demonstrates practical SQL applications for business analysis.
+
+- Ready-to-use queries support further custom analysis and reporting.
